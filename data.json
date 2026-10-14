@@ -23,7 +23,7 @@
       "activity": "原画展示・ミニカードづくり",
       "reservation": true,
       "image": "assets/images/creator-01.svg",
-      "accent": "#ef7e63",
+      "accent": "#d98274",
       "socialLabel": "Instagram",
       "socialUrl": "#"
     },
@@ -39,7 +39,7 @@
       "activity": "ZINE・ポストカードの展示販売",
       "reservation": false,
       "image": "assets/images/creator-02.svg",
-      "accent": "#4d84a3",
+      "accent": "#7496a3",
       "socialLabel": "Web site",
       "socialUrl": "#"
     },
@@ -55,7 +55,7 @@
       "activity": "木製小物販売・香りのタグ制作",
       "reservation": true,
       "image": "assets/images/creator-03.svg",
-      "accent": "#8d9b67",
+      "accent": "#9a9c78",
       "socialLabel": "Instagram",
       "socialUrl": "#"
     },
@@ -71,7 +71,7 @@
       "activity": "季節の焼き菓子・限定ボックス販売",
       "reservation": true,
       "image": "assets/images/food-01.svg",
-      "accent": "#bf7182",
+      "accent": "#c48791",
       "socialLabel": "Instagram",
       "socialUrl": "#"
     }
