@@ -1,0 +1,79 @@
+{
+  "event": {
+    "name": "よりみちナイト in 水辺のまち",
+    "date": "2026年11月12日（木）",
+    "time": "17:30〜20:30",
+    "venue": "リバーサイド・コモンズ 8F",
+    "address": "大阪府大阪市北区サンプル1-2-3",
+    "price": "入場無料（一部体験・販売は有料）",
+    "lead": "仕事帰りに、まだ知らない世界へ。",
+    "description": "アート、クラフト、写真、スイーツ。つくり手との会話を楽しみながら、日常に小さな発見を持ち帰るアフターワークイベントです。",
+    "registrationUrl": "#registration"
+  },
+  "creators": [
+    {
+      "id": "aoi-harada",
+      "category": "creator",
+      "role": "イラストレーター",
+      "name": "原田アオイ",
+      "nameEn": "Aoi Harada",
+      "tagline": "色と線から、街の記憶をすくい上げる。",
+      "summary": "日常の風景を鮮やかな色彩で描くイラストレーター。会場では原画展示とミニカード制作を行います。",
+      "story": "街を歩いているときに見つける小さな違和感や光の変化を、線と色で記録しています。作品を通じて、いつもの景色が少し違って見えるきっかけを届けたいと考えています。",
+      "activity": "原画展示・ミニカードづくり",
+      "reservation": true,
+      "image": "assets/images/creator-01.svg",
+      "accent": "#ef7e63",
+      "socialLabel": "Instagram",
+      "socialUrl": "#"
+    },
+    {
+      "id": "sora-press",
+      "category": "creator",
+      "role": "ZINEレーベル",
+      "name": "空色プレス",
+      "nameEn": "Sorairo Press",
+      "tagline": "知らない街を、手のひらサイズの旅に。",
+      "summary": "旅とローカルカルチャーを扱う小さな出版レーベル。ZINEの展示販売を行います。",
+      "story": "有名な名所だけではなく、路地や個人店、地域の人の言葉を記録することで、街の見え方を増やす本づくりを続けています。",
+      "activity": "ZINE・ポストカードの展示販売",
+      "reservation": false,
+      "image": "assets/images/creator-02.svg",
+      "accent": "#4d84a3",
+      "socialLabel": "Web site",
+      "socialUrl": "#"
+    },
+    {
+      "id": "mori-craft",
+      "category": "creator",
+      "role": "クラフト作家",
+      "name": "MORI CRAFT",
+      "nameEn": "Mori Craft",
+      "tagline": "木の手触りを、暮らしのリズムに。",
+      "summary": "端材を活用した小さな生活道具を制作。木の香りを楽しむワークショップも開催します。",
+      "story": "素材ごとの木目や節を欠点ではなく個性として生かし、長く使うほど愛着が増す道具を目指しています。",
+      "activity": "木製小物販売・香りのタグ制作",
+      "reservation": true,
+      "image": "assets/images/creator-03.svg",
+      "accent": "#8d9b67",
+      "socialLabel": "Instagram",
+      "socialUrl": "#"
+    },
+    {
+      "id": "lumiere-bakes",
+      "category": "food",
+      "role": "焼き菓子店",
+      "name": "Lumière Bakes",
+      "nameEn": "Lumiere Bakes",
+      "tagline": "一日の終わりに、やさしい甘さを。",
+      "summary": "季節の果物と発酵バターを使った焼き菓子を販売。数量限定の詰め合わせも用意します。",
+      "story": "誰かを思い浮かべながら選ぶ時間も、お菓子の一部だと考えています。手渡したくなる佇まいと、記憶に残る香りを大切にしています。",
+      "activity": "季節の焼き菓子・限定ボックス販売",
+      "reservation": true,
+      "image": "assets/images/food-01.svg",
+      "accent": "#bf7182",
+      "socialLabel": "Instagram",
+      "socialUrl": "#"
+    }
+  ]
+}
